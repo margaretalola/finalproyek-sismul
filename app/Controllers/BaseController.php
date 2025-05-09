@@ -46,13 +46,18 @@ abstract class BaseController extends Controller
     /**
      * @return void
      */
+    protected $db; //tambahin ini --database
+
     public function initController(RequestInterface $request, ResponseInterface $response, LoggerInterface $logger)
     {
         // Do Not Edit This Line
         parent::initController($request, $response, $logger);
+        // Inisialisasi Database
+        $this->db = \Config\Database::connect();
 
         // Preload any models, libraries, etc, here.
 
         // E.g.: $this->session = service('session');
+        // app/Controllers/BaseController.php
     }
 }

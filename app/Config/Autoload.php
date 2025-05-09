@@ -18,6 +18,8 @@ use CodeIgniter\Config\AutoloadConfig;
  * NOTE: This class is required prior to Autoloader instantiation,
  *       and does not extend BaseConfig.
  */
+
+
 class Autoload extends AutoloadConfig
 {
     /**
@@ -88,5 +90,6 @@ class Autoload extends AutoloadConfig
      *
      * @var list<string>
      */
-    public $helpers = [];
+    public $helpers = ['url', 'file', 'form', 'text', 'html']; //tambah ini
+
 }
