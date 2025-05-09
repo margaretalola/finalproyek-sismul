@@ -1,0 +1,668 @@
+CRITICAL - 2025-05-08 16:33:26 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-05-08 16:34:55 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-05-08 16:35:22 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:36:12 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:36:14 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:36:15 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:36:17 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:36:19 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:37:42 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:38:55 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:39:11 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:39:44 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 16:42:25 --> Error: Class "App\Models\MyModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\BaseController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 17:27:12 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:202
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(202): mysqli->real_connect('localhost', 'root', '', 'sismul_fp', 3306, '', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(1525): CodeIgniter\Database\BaseConnection->query('SHOW TABLES FRO...')
+#4 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(1545): CodeIgniter\Database\BaseConnection->listTables()
+#5 C:\New folder\htdocs\web_final-proyek\system\Database\MigrationRunner.php(768): CodeIgniter\Database\BaseConnection->tableExists('migrations')
+#6 C:\New folder\htdocs\web_final-proyek\system\Database\MigrationRunner.php(162): CodeIgniter\Database\MigrationRunner->ensureTable()
+#7 C:\New folder\htdocs\web_final-proyek\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\New folder\htdocs\web_final-proyek\system\CLI\Commands.php(74): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\New folder\htdocs\web_final-proyek\system\CLI\Console.php(47): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\New folder\htdocs\web_final-proyek\system\Boot.php(360): CodeIgniter\CLI\Console->run()
+#11 C:\New folder\htdocs\web_final-proyek\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\New folder\htdocs\web_final-proyek\spark(87): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(1525): CodeIgniter\Database\BaseConnection->query('SHOW TABLES FRO...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(1545): CodeIgniter\Database\BaseConnection->listTables()
+#4 C:\New folder\htdocs\web_final-proyek\system\Database\MigrationRunner.php(768): CodeIgniter\Database\BaseConnection->tableExists('migrations')
+#5 C:\New folder\htdocs\web_final-proyek\system\Database\MigrationRunner.php(162): CodeIgniter\Database\MigrationRunner->ensureTable()
+#6 C:\New folder\htdocs\web_final-proyek\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#7 C:\New folder\htdocs\web_final-proyek\system\CLI\Commands.php(74): CodeIgniter\Commands\Database\Migrate->run(Array)
+#8 C:\New folder\htdocs\web_final-proyek\system\CLI\Console.php(47): CodeIgniter\CLI\Commands->run('migrate', Array)
+#9 C:\New folder\htdocs\web_final-proyek\system\Boot.php(360): CodeIgniter\CLI\Console->run()
+#10 C:\New folder\htdocs\web_final-proyek\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#11 C:\New folder\htdocs\web_final-proyek\spark(87): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#12 {main}
+ERROR - 2025-05-08 17:45:02 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:202
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(202): mysqli->real_connect('localhost', 'root', '', 'sismul_fp', 3306, '', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+#7 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+#8 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->index()
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\New folder\htdocs\web_final-proyek\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+#6 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+#7 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->index()
+#8 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#11 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#14 {main}
+CRITICAL - 2025-05-08 17:45:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'sismul_fp'
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `post`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 17:45:26 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:202
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(202): mysqli->real_connect('localhost', 'root', '', 'sismul_fp', 3306, '', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+#7 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+#8 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->index()
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'sismul_fp' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:246
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\New folder\htdocs\web_final-proyek\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+#6 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+#7 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->index()
+#8 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#11 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#14 {main}
+CRITICAL - 2025-05-08 17:45:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'sismul_fp'
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `post`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(679): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\M_Welcome.php(29): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Welcome.php(23): App\Models\M_welcome->readPost()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 17:47:14 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 APPPATH\Views\home.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php', 2)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Welcome.php(24): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 18:06:47 --> mysqli_sql_exception: Unknown column 'filename' in 'field list' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `po...', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `po...')
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `po...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `po...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(843): CodeIgniter\Model->doInsert(Array)
+#6 C:\New folder\htdocs\web_final-proyek\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(23): CodeIgniter\Model->insert(Array)
+#8 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf2b7108...', 'item681cf2b7108...')
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->create()
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#11 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#16 {main}
+CRITICAL - 2025-05-08 18:06:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+[Method: POST, Route: welcome/create]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf2b7108a99.77349216', 'item681cf2b7108a99_77349216.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:06:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf2b7108a99.77349216\', \'coba1\', \'ini coba coba\', \'item681cf2b7108a99_77349216.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf2b7108a99.77349216\', \'coba1\', \'ini coba coba\', \'item681cf2b7108a99_77349216.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf2b7108a99.77349216', 'item681cf2b7108a99_77349216.jpg')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:06:47 --> [Caused by] mysqli_sql_exception: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf2b7108a99.77349216\', \'coba1\', \'ini coba coba\', \'item681cf2b7108a99_77349216.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf2b7108a99.77349216\', \'coba1\', \'ini coba coba\', \'item681cf2b7108a99_77349216.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf2b7108a99.77349216\', \'coba1\', \'ini coba coba\', \'item681cf2b7108a99_77349216.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf2b7108a99.77349216', 'item681cf2b7108a99_77349216.jpg')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 18:14:18 --> mysqli_sql_exception: Unknown column 'filename' in 'field list' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `po...', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `po...')
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `po...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `po...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(843): CodeIgniter\Model->doInsert(Array)
+#6 C:\New folder\htdocs\web_final-proyek\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(23): CodeIgniter\Model->insert(Array)
+#8 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf47aa96...', 'test_file.jpg')
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->create()
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#11 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#16 {main}
+CRITICAL - 2025-05-08 18:14:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+[Method: POST, Route: welcome/create]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf47aa962b8.84568152', 'test_file.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:14:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf47aa962b8.84568152\', \'coba1\', \'ini coba coba\', \'test_file.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf47aa962b8.84568152\', \'coba1\', \'ini coba coba\', \'test_file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf47aa962b8.84568152', 'test_file.jpg')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:14:18 --> [Caused by] mysqli_sql_exception: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf47aa962b8.84568152\', \'coba1\', \'ini coba coba\', \'test_file.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf47aa962b8.84568152\', \'coba1\', \'ini coba coba\', \'test_file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf47aa962b8.84568152\', \'coba1\', \'ini coba coba\', \'test_file.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf47aa962b8.84568152', 'test_file.jpg')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 18:14:41 --> mysqli_sql_exception: Unknown column 'filename' in 'field list' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `po...', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `po...')
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `po...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `po...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(843): CodeIgniter\Model->doInsert(Array)
+#6 C:\New folder\htdocs\web_final-proyek\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(23): CodeIgniter\Model->insert(Array)
+#8 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4915bf...', 'test_file.jpg')
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->create()
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#11 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#16 {main}
+CRITICAL - 2025-05-08 18:14:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+[Method: POST, Route: welcome/create]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4915bf086.25199987', 'test_file.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:14:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4915bf086.25199987\', \'coba\', \'coba1\', \'test_file.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4915bf086.25199987\', \'coba\', \'coba1\', \'test_file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4915bf086.25199987', 'test_file.jpg')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:14:41 --> [Caused by] mysqli_sql_exception: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4915bf086.25199987\', \'coba\', \'coba1\', \'test_file.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4915bf086.25199987\', \'coba\', \'coba1\', \'test_file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4915bf086.25199987\', \'coba\', \'coba1\', \'test_file.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4915bf086.25199987', 'test_file.jpg')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-08 18:15:59 --> mysqli_sql_exception: Unknown column 'filename' in 'field list' in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `po...', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `po...')
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `po...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `po...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\New folder\htdocs\web_final-proyek\system\BaseModel.php(843): CodeIgniter\Model->doInsert(Array)
+#6 C:\New folder\htdocs\web_final-proyek\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(23): CodeIgniter\Model->insert(Array)
+#8 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4dfa94...', 'test_file.jpg')
+#9 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->create()
+#10 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#11 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#16 {main}
+CRITICAL - 2025-05-08 18:15:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+[Method: POST, Route: welcome/create]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4dfa94792.67388646', 'test_file.jpg')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:15:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4dfa94792.67388646\', \'abc\', \'abc\', \'file.jpg\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4dfa94792.67388646\', \'abc\', \'abc\', \'file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4dfa94792.67388646', 'test_file.jpg')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:15:59 --> [Caused by] mysqli_sql_exception: Unknown column 'filename' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4dfa94792.67388646\', \'abc\', \'abc\', \'file.jpg\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4dfa94792.67388646\', \'abc\', \'abc\', \'file.jpg\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (\'item681cf4dfa94792.67388646\', \'abc\', \'abc\', \'file.jpg\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `post` (`id`, `name`, `description`, `filename`) VALUES (:id:, :name:, :description:, :filename:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(843): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\M_Welcome.php(23): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Welcome.php(51): App\Models\M_welcome->createPost('item681cf4dfa94792.67388646', 'test_file.jpg')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->create()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:58:45 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(27): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 18:59:26 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 12.
+ 1 APPPATH\Views\post.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(27): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 19:03:20 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 19:03:54 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 19:06:45 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681d00c173f017.76048334]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 19:07:30 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681d00c173f017.76048334]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-08 19:07:35 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681d00c173f017.76048334]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')

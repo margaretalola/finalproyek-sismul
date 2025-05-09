@@ -1,0 +1,312 @@
+CRITICAL - 2025-05-09 02:30:09 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:38:52 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:38:57 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:40:21 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:43:41 --> ErrorException: Attempt to read property "name" on null
+[Method: GET, Route: welcome/index/item681cf73c5835f9.47230312]
+in APPPATH\Views\post.php on line 7.
+ 1 APPPATH\Views\post.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php', 7)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(28): view('post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:47:47 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 5.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Welcome.php(36): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:52:00 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 5.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Welcome.php(36): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:56:03 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 6.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 4 APPPATH\Controllers\Welcome.php(38): view('home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+ERROR - 2025-05-09 02:58:36 --> mysqli_sql_exception: Table 'sismul-fp.posts' doesn't exist in C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\New folder\htdocs\web_final-proyek\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\New folder\htdocs\web_final-proyek\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\New folder\htdocs\web_final-proyek\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\New folder\htdocs\web_final-proyek\app\Models\M_Welcome.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\New folder\htdocs\web_final-proyek\app\Controllers\Welcome.php(38): App\Models\M_welcome->readPost()
+#6 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(933): App\Controllers\Welcome->index()
+#7 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#8 C:\New folder\htdocs\web_final-proyek\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\New folder\htdocs\web_final-proyek\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\New folder\htdocs\web_final-proyek\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\New folder\htdocs\web_final-proyek\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 C:\New folder\htdocs\web_final-proyek\system\rewrite.php(44): require_once('C:\\New folder\\h...')
+#13 {main}
+CRITICAL - 2025-05-09 02:58:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'sismul-fp.posts' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `posts`', [], false)
+ 2 APPPATH\Models\M_Welcome.php(29): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Welcome.php(38): App\Models\M_welcome->readPost()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:58:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'sismul-fp.posts' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `posts`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `posts`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `posts`', [], false)
+ 4 APPPATH\Models\M_Welcome.php(29): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Welcome.php(38): App\Models\M_welcome->readPost()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:58:36 --> [Caused by] mysqli_sql_exception: Table 'sismul-fp.posts' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `posts`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `posts`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `posts`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `posts`', [], false)
+ 5 APPPATH\Models\M_Welcome.php(29): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Welcome.php(38): App\Models\M_welcome->readPost()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 02:58:52 --> ErrorException: Attempt to read property "filename" on array
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 5.
+ 1 APPPATH\Views\home.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "filename" on array', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php', 5)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Welcome.php(43): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 03:00:56 --> ErrorException: Undefined variable $id
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 14.
+ 1 APPPATH\Views\home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php', 14)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Welcome.php(43): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 03:02:32 --> ErrorException: Attempt to read property "id" on array
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 14.
+ 1 APPPATH\Views\home.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php', 14)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Welcome.php(43): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 03:15:23 --> ErrorException: Attempt to read property "filename" on null
+[Method: GET, Route: welcome/delete/item681cf73c5835f9.47230312]
+in APPPATH\Controllers\Welcome.php on line 129.
+ 1 APPPATH\Controllers\Welcome.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "filename" on null', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Controllers\\Welcome.php', 129)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->delete('$1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 04:01:47 --> ErrorException: Attempt to read property "filename" on array
+[Method: GET, Route: welcome/view/item681d7ad1405961.72268477]
+in APPPATH\Views\view_post.php on line 8.
+ 1 APPPATH\Views\view_post.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "filename" on array', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\view_post.php', 8)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\view_post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('view_post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(49): view('view_post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->view('item681d7ad1405961.72268477')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 04:22:05 --> ErrorException: Attempt to read property "filename" on array
+[Method: GET, Route: welcome/view/item681d7ad1405961.72268477]
+in APPPATH\Views\view_post.php on line 8.
+ 1 APPPATH\Views\view_post.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "filename" on array', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\view_post.php', 8)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\view_post.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('view_post', [], true)
+ 5 APPPATH\Controllers\Welcome.php(49): view('view_post', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->view('item681d7ad1405961.72268477')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 04:29:14 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 APPPATH\Views\home.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php', 2)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\New folder\\htdocs\\web_final-proyek\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Welcome.php(25): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 04:30:43 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: welcome/view/item681d7ad1405961.72268477]
+in APPPATH\Views\view_post.php on line 8.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('view_post', [], true)
+ 4 APPPATH\Controllers\Welcome.php(49): view('view_post', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->view('item681d7ad1405961.72268477')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')
+CRITICAL - 2025-05-09 04:31:40 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: welcome/view/item681d7ad1405961.72268477]
+in APPPATH\Views\view_post.php on line 9.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('view_post', [], true)
+ 4 APPPATH\Controllers\Welcome.php(49): view('view_post', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Welcome->view('item681d7ad1405961.72268477')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\New folder\\htdocs\\web_final-proyek\\public\\index.php')

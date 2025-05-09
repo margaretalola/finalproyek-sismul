@@ -1,8 +1,13 @@
 <div class="container mt-4">
-    <form method="GET" action="" class="mb-4 d-flex justify-content-end">
-        <input type="text" name="search" class="form-control w-25 me-2" placeholder="Cari nama..." value="<?= htmlspecialchars($_GET['search'] ?? '') ?>">
-        <button type="submit" class="btn btn-dark">Search</button>
-    </form>
+    <div class="bg-white py-3 shadow-sm">
+        <div class="container">
+            <form method="GET" action="" class="d-flex justify-content-end">
+                <input type="text" name="search" class="form-control w-25 me-2" placeholder="Cari nama..." value="<?= htmlspecialchars($_GET['search'] ?? '') ?>">
+                <button type="submit" class="btn btn-dark">Search</button>
+            </form>
+        </div>
+    </div>
+
 
     <div class="row">
     <?php $search = $_GET['search'] ?? '';
