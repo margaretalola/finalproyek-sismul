@@ -1,11 +1,11 @@
 <div class="container mt-5">
     <div class="card">
-        <div class="card-header bg-primary text-white">
-            <h5>Detail Post</h5>
+        <div class="card-header bg-dark text-white">
+            <h5>Informasi Barang</h5>
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-            <img src="<?= base_url('upload/post/' . $post->filename); ?>"
+                <img src="<?= base_url('upload/post/' . $post->filename); ?>"
                      alt="<?= $post->name; ?>"
                      class="img-fluid rounded" 
                      style="max-height: 300px;">
@@ -13,7 +13,7 @@
             
             <table class="table table-bordered">
                 <tr>
-                    <th width="30%">Nama</th>
+                    <th width="30%">Nama Barang</th>
                     <td><?= $post->name; ?></td>
                 </tr>
                 <tr>
