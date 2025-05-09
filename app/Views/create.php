@@ -1,7 +1,3 @@
-<?php
-// CI4 doesn't use the defined('BASEPATH') check - that was a CI3 convention
-?>
-
 <div class="container mt-4">
   <div class="row">
     <div class="col-md-8 offset-md-2">

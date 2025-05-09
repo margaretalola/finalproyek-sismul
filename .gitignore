@@ -1,3 +1,4 @@
 .env
 vendor/
 node_modules/
+app/Models/Item_model.php/
