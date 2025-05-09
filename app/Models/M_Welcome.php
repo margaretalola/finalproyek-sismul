@@ -35,20 +35,11 @@ class M_welcome extends Model
 
 
 
-    public function updatePost($id)
+    public function updatePost($id, $data)
     {
-        $request = \Config\Services::request();
-        
-        $data = [
-            'name' => $request->getPost('name'),
-            'description' => $request->getPost('description'),
-        ];
-        
-        $this->db->table('post')
+        return $this->db->table('post')
             ->where('id', $id)
             ->update($data);
-            
-        return true;
     }
 
     public function deletePost($id)

@@ -93,46 +93,86 @@ class Welcome extends Controller
     }
 
     // Updated method for handling the form update
+    // public function update($id)
+    // {
+    //     $post = (object) $this->model->readPost($id);
+    
+    //     if (!$post) {
+    //         session()->setFlashdata('error', 'Post not found');
+    //         return redirect()->to(base_url());
+    //     }
+        
+    //     // Get form data
+    //     $data = [
+    //         'name' => $this->request->getPost('name'),
+    //         'description' => $this->request->getPost('description')
+    //     ];
+        
+    //     // Handle file upload if needed
+    //     $file = $this->request->getFile('userfile');
+    //     if ($file && $file->isValid() && !$file->hasMoved()) {
+    //         $newName = $file->getRandomName();
+    //         $file->move(FCPATH . 'upload/post/', $newName);
+            
+    //         // Delete old file if it exists
+    //         if (!empty($post->filename)) {
+    //             if (file_exists('./upload/post/' . $post->filename)) {
+    //                 unlink('./upload/post/' . $post->filename);
+    //             }
+    //         }
+            
+    //         $data['filename'] = $newName;
+    //     }
+        
+    //     // Update in database
+    //     $updated = $this->model->updatePost($id, $data);
+        
+    //     if ($updated) {
+    //         session()->setFlashdata('success', 'Post updated successfully');
+    //     } else {
+    //         session()->setFlashdata('error', 'Failed to update post');
+    //     }
+        
+    //     return redirect()->to(base_url());
+    // }
+
     public function update($id)
     {
         $post = (object) $this->model->readPost($id);
-    
+
         if (!$post) {
             session()->setFlashdata('error', 'Post not found');
             return redirect()->to(base_url());
         }
-        
-        // Get form data
-        $data = [
-            'name' => $this->request->getPost('name'),
-            'description' => $this->request->getPost('description')
-        ];
-        
-        // Handle file upload if needed
+
+        // Ambil semua data dari form
+        $data = $this->request->getPost();
+
+        // Handle file upload jika ada file baru
         $file = $this->request->getFile('userfile');
         if ($file && $file->isValid() && !$file->hasMoved()) {
             $newName = $file->getRandomName();
-            $file->move('./upload/post/', $newName);
-            
+            $file->move(FCPATH . 'upload/post/', $newName);
+
             // Delete old file if it exists
             if (!empty($post->filename)) {
                 if (file_exists('./upload/post/' . $post->filename)) {
                     unlink('./upload/post/' . $post->filename);
                 }
             }
-            
+
+            // Tambahkan atau update nama file ke dalam array $data
             $data['filename'] = $newName;
         }
-        
-        // Update in database
+        // Update data di database
         $updated = $this->model->updatePost($id, $data);
-        
+
         if ($updated) {
             session()->setFlashdata('success', 'Post updated successfully');
         } else {
             session()->setFlashdata('error', 'Failed to update post');
         }
-        
+
         return redirect()->to(base_url());
     }
 
